@@ -4,7 +4,7 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: de.mihubx-ig
-canonical: http://mihubx.de/fhir/
+canonical: http://mihubx.de/fhir
 name: MiHUBxIG
 # title: Example Title
 # description: Example Implementation Guide for getting started with SUSHI
@@ -24,12 +24,13 @@ publisher:
 # package id and the value is the version (or dev/current). For advanced
 # use cases, the value can be an object with keys for id, uri, and version.
 #
-# dependencies:
+dependencies:
 #   hl7.fhir.us.core: 3.1.0
 #   hl7.fhir.us.mcode:
 #     id: mcode
 #     uri: http://hl7.org/fhir/us/mcode/ImplementationGuide/hl7.fhir.us.mcode
 #     version: 1.0.0
+    de.medizininformatikinitiative.kerndatensatz.person: 1.0.16
 #
 #
 # The pages property corresponds to IG.definition.page. SUSHI can

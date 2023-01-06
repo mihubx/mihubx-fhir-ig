@@ -2,9 +2,9 @@
   "Timestamp": "2023-01-06T13:48:53.250003+00:00",
   "Files": {
     "package.json": {
-      "Length": 104,
-      "LastWriteTime": "2023-01-05T15:17:54+00:00",
-      "Hash": "A606472D97A4A4E9364D1464F6973093"
+      "Length": 166,
+      "LastWriteTime": "2023-01-06T16:10:05.8391967+00:00",
+      "Hash": "0BF4451591F8449CF7E558F45A931F97"
     },
     "project.yaml": {
       "Length": 41,
@@ -12,9 +12,9 @@
       "Hash": "43EFE73B3AA8A45E6130081229E16F84"
     },
     "sushi-config.yaml": {
-      "Length": 10468,
-      "LastWriteTime": "2023-01-06T14:09:38.8304009+00:00",
-      "Hash": "6FDE34165AF010FFD9789525EAC3189B"
+      "Length": 10529,
+      "LastWriteTime": "2023-01-06T17:15:56.8587672+00:00",
+      "Hash": "A69C9DF8ADFA2317BA3CB8DF9752DA68"
     },
     "input/ignoreWarnings.txt": {
       "Length": 270,
@@ -26,25 +26,25 @@
       "LastWriteTime": "2023-01-06T13:51:08.7339375+00:00",
       "Hash": "7B4D5F27DFC8CD3AFFC9D6A9747ECD01"
     },
-    "input/fsh/patient.fsh": {
-      "Length": 451,
-      "LastWriteTime": "2023-01-06T13:51:08.7441554+00:00",
-      "Hash": "10423B28A7E37E45402B5E23C5839529"
-    },
-    "fsh-generated/resources/Patient-PatientExample.json": {
-      "Length": 253,
-      "LastWriteTime": "2023-01-06T14:14:05.6201229+00:00",
-      "Hash": "2F42E2C3DCE736E233C22DEE6BA17707"
-    },
     "fsh-generated/resources/ImplementationGuide-de.mihubx-ig.json": {
-      "Length": 1560,
-      "LastWriteTime": "2023-01-06T14:14:05.6370191+00:00",
-      "Hash": "78F1C537296DE7C13B01FCAFF04F1D15"
+      "Length": 1903,
+      "LastWriteTime": "2023-01-06T17:20:28.611476+00:00",
+      "Hash": "4F2BBB49277C6E157C21D7EB222CE3B7"
     },
-    "fsh-generated/resources/StructureDefinition-MyPatient.json": {
-      "Length": 1476,
-      "LastWriteTime": "2023-01-06T14:14:05.6178245+00:00",
-      "Hash": "F1A501096FFE53FA6C0536C583AFDED0"
+    "README.md": {
+      "Length": 226,
+      "LastWriteTime": "2023-01-06T14:22:28.4125992+00:00",
+      "Hash": "B862F986B93E43DA386D7519262477D0"
+    },
+    "fsh-generated/resources/StructureDefinition-sd-mhx-patient.json": {
+      "Length": 1493,
+      "LastWriteTime": "2023-01-06T17:20:28.5863437+00:00",
+      "Hash": "2180541F34CA8AA4C247811ADE458316"
+    },
+    "fsh-generated/resources/Patient-BeispielPatient.json": {
+      "Length": 832,
+      "LastWriteTime": "2023-01-06T17:20:28.5883134+00:00",
+      "Hash": "F6C696F9DF85AA594BDDFBE48A8A6A55"
     }
   }
 }
