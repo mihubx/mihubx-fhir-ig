@@ -23,7 +23,7 @@
     },
     "package.json": {
       "Length": 166,
-      "LastWriteTime": "2023-01-20T19:38:48+00:00",
+      "LastWriteTime": "2023-01-24T17:59:21.9003979+00:00",
       "Hash": "0BF4451591F8449CF7E558F45A931F97"
     },
     "project.yaml": {
@@ -31,25 +31,25 @@
       "LastWriteTime": "2023-01-06T13:14:46+00:00",
       "Hash": "43EFE73B3AA8A45E6130081229E16F84"
     },
-    "StructureDefinition-MHXPatientIn.json": {
-      "Length": 379707,
-      "LastWriteTime": "2023-01-24T14:21:38+00:00",
-      "Hash": "A0F142CC403F074FBF40798CD4CF6AD5"
+    "resources/StructureDefinition-MHXPatientIn.json": {
+      "Length": 355732,
+      "LastWriteTime": "2023-01-24T17:58:30+00:00",
+      "Hash": "D7E59F245F45CD07DE5FF9A06D807DC7"
     },
-    "ImplementationGuide-de.mihubx.json": {
+    "resources/ImplementationGuide-de.mihubx.json": {
       "Length": 16960,
-      "LastWriteTime": "2023-01-24T14:21:38+00:00",
-      "Hash": "F8348553C0502E6C499D4EDAFB5BFACF"
+      "LastWriteTime": "2023-01-24T17:58:30+00:00",
+      "Hash": "297066BC0AC861B5B6229EECACCBF72A"
     },
-    "Patient-BeispielPatientIn.json": {
-      "Length": 1242,
-      "LastWriteTime": "2023-01-24T14:21:38+00:00",
-      "Hash": "BF0A412C3BA6D04D23830C94E8462934"
-    },
-    "expansions.json": {
+    "resources/expansions.json": {
       "Length": 182,
-      "LastWriteTime": "2023-01-24T14:21:38+00:00",
-      "Hash": "45FA02F0B939AF5CB01F07139BBDB976"
+      "LastWriteTime": "2023-01-24T17:58:30+00:00",
+      "Hash": "CB0DE6E58D08712C56A93FFDD4011E92"
+    },
+    "resources/Patient-BeispielPatientIn.json": {
+      "Length": 1242,
+      "LastWriteTime": "2023-01-24T15:40:46+00:00",
+      "Hash": "BF0A412C3BA6D04D23830C94E8462934"
     }
   }
 }

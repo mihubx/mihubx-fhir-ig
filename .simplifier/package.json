@@ -4,6 +4,6 @@
   ],
   "dependencies": {
     "hl7.fhir.r4.core": "4.0.1",
-    "de.medizininformatikinitiative.kerndatensatz.person": "1.0.14"
+    "de.medizininformatikinitiative.kerndatensatz.person": "1.0.16"
   }
 }
