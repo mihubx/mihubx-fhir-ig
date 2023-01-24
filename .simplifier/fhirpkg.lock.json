@@ -1,0 +1,10 @@
+{
+  "updated": "2023-01-24T15:36:22.7596109+01:00",
+  "dependencies": {
+    "hl7.fhir.r4.core": "4.0.1",
+    "de.medizininformatikinitiative.kerndatensatz.person": "1.0.16",
+    "de.basisprofil.r4": "0.9.13",
+    "de.medizininformatikinitiative.kerndatensatz.meta": "1.0.3"
+  },
+  "missing": {}
+}

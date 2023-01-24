@@ -1,0 +1,55 @@
+{
+  "Timestamp": "2023-01-23T17:59:13.4958387+00:00",
+  "Files": {
+    "guides/mihubx-fhir-ig/guide.yaml": {
+      "Length": 92,
+      "LastWriteTime": "2023-01-20T19:24:16+00:00",
+      "Hash": "BA209EA2137E5AEAEFEFDA64335D5C1F"
+    },
+    "guides/mihubx-fhir-ig/Home/Index.page.md": {
+      "Length": 32,
+      "LastWriteTime": "2023-01-20T19:19:36+00:00",
+      "Hash": "21D8356E3345798E89B322CC7A75EC09"
+    },
+    "guides/mihubx-fhir-ig/Home/toc.yaml": {
+      "Length": 42,
+      "LastWriteTime": "2023-01-20T19:19:36+00:00",
+      "Hash": "10D5FFAF5706D57E8ABBD3FBD839FAEB"
+    },
+    "guides/mihubx-fhir-ig/toc.yaml": {
+      "Length": 32,
+      "LastWriteTime": "2023-01-20T19:19:36+00:00",
+      "Hash": "3E2BC1817DFD8F2BD16B380005C2838F"
+    },
+    "package.json": {
+      "Length": 166,
+      "LastWriteTime": "2023-01-20T19:38:48+00:00",
+      "Hash": "0BF4451591F8449CF7E558F45A931F97"
+    },
+    "project.yaml": {
+      "Length": 41,
+      "LastWriteTime": "2023-01-06T13:14:46+00:00",
+      "Hash": "43EFE73B3AA8A45E6130081229E16F84"
+    },
+    "StructureDefinition-MHXPatientIn.json": {
+      "Length": 379707,
+      "LastWriteTime": "2023-01-24T14:21:38+00:00",
+      "Hash": "A0F142CC403F074FBF40798CD4CF6AD5"
+    },
+    "ImplementationGuide-de.mihubx.json": {
+      "Length": 16960,
+      "LastWriteTime": "2023-01-24T14:21:38+00:00",
+      "Hash": "F8348553C0502E6C499D4EDAFB5BFACF"
+    },
+    "Patient-BeispielPatientIn.json": {
+      "Length": 1242,
+      "LastWriteTime": "2023-01-24T14:21:38+00:00",
+      "Hash": "BF0A412C3BA6D04D23830C94E8462934"
+    },
+    "expansions.json": {
+      "Length": 182,
+      "LastWriteTime": "2023-01-24T14:21:38+00:00",
+      "Hash": "45FA02F0B939AF5CB01F07139BBDB976"
+    }
+  }
+}
