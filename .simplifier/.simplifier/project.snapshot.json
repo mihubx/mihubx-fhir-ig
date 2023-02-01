@@ -1,0 +1,60 @@
+{
+  "Timestamp": "2023-02-01T13:35:19.545482+00:00",
+  "Files": {
+    "resources/expansions.json": {
+      "Length": 182,
+      "LastWriteTime": "2023-02-01T14:19:30+00:00",
+      "Hash": "4240B56FC6B80479ECED79219B30479A"
+    },
+    "resources/Patient-BeispielPatientIn.json": {
+      "Length": 1242,
+      "LastWriteTime": "2023-01-24T14:49:54+00:00",
+      "Hash": "BF0A412C3BA6D04D23830C94E8462934"
+    },
+    "guides/mihubx-fhir-ig/guide.yaml": {
+      "Length": 92,
+      "LastWriteTime": "2023-01-20T19:24:16+00:00",
+      "Hash": "BA209EA2137E5AEAEFEFDA64335D5C1F"
+    },
+    "guides/mihubx-fhir-ig/Home/Index.page.md": {
+      "Length": 32,
+      "LastWriteTime": "2023-01-20T19:19:36+00:00",
+      "Hash": "21D8356E3345798E89B322CC7A75EC09"
+    },
+    "guides/mihubx-fhir-ig/Home/toc.yaml": {
+      "Length": 42,
+      "LastWriteTime": "2023-01-20T19:19:36+00:00",
+      "Hash": "10D5FFAF5706D57E8ABBD3FBD839FAEB"
+    },
+    "resources/StructureDefinition-MHXPatientIn.json": {
+      "Length": 399141,
+      "LastWriteTime": "2023-02-01T14:19:30+00:00",
+      "Hash": "C91134EA7FCC5552CAD8605D01AD927D"
+    },
+    "package.json": {
+      "Length": 166,
+      "LastWriteTime": "2023-01-24T17:00:58+00:00",
+      "Hash": "0BF4451591F8449CF7E558F45A931F97"
+    },
+    "project.yaml": {
+      "Length": 41,
+      "LastWriteTime": "2023-01-06T13:14:46+00:00",
+      "Hash": "43EFE73B3AA8A45E6130081229E16F84"
+    },
+    "resources/ImplementationGuide-de.mihubx.json": {
+      "Length": 18125,
+      "LastWriteTime": "2023-02-01T14:19:30+00:00",
+      "Hash": "31758E3433EB3BD7FD6D174E828A042C"
+    },
+    "guides/mihubx-fhir-ig/toc.yaml": {
+      "Length": 32,
+      "LastWriteTime": "2023-01-20T19:19:36+00:00",
+      "Hash": "3E2BC1817DFD8F2BD16B380005C2838F"
+    },
+    "resources/CapabilityStatement-MHXCapabilityStatement.json": {
+      "Length": 8597,
+      "LastWriteTime": "2023-02-01T14:19:30+00:00",
+      "Hash": "277746AE43635626D19ADC4E31D09833"
+    }
+  }
+}

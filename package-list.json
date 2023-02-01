@@ -1,0 +1,14 @@
+{
+ "package-id" : "de.mihubx",
+ "title" : "MiHUBx FHIR Implementation Guide", 
+ "canonical" : "http://mihubx.de/fhir", 
+ "introduction" : "FHIR Implementation Guide for the Medical Informatics Hub in Saxony (MiHUBx)",
+ "category": ["Public Health and Research"],
+ "list" : [{
+   "version" : "current",
+   "desc" : "Continuous Integration Build",
+   "path" : "https://build.fhir.org/ig/mihubx/mihubx-fhir-ig/",
+   "status" : "ci-build",
+   "current" : true
+ }]
+}
